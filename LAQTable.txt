@@ -1,0 +1,3 @@
+1,Is a tomato a fruit or a vegetable,Pictures/Tomato.jpg,Fruit
+2,What is the capital of Colombia,Pictures/Colombia.png,Bogota
+3,What is Dulain's surname?,Pictures/QuestionMark.png,Aberatna

@@ -1,0 +1,7 @@
+1,What is the name of this car?:,Mercedes AMG GT R,Lamborghini Huracan,Datsun Redi-Go,Jaguar E-Type,Pictures/Q1Pic.jpg,A
+2,Which country came third in the 2018 FIFA World Cup?:,Croatia,Belgium,England,Brazil,Pictures/QuestionMark.png,B
+3,Who came third in the 2019 Formula One World Championship?:,Lewis Hamilton,Max Verstappen,Charles Leclerc,Carlos Sainz,Pictures/f1car.png,C
+4,Which statisical distribution has only one parameter?:,Binomial,Normal,Possion,None of them,Pictures/QuestionMark.png,C
+5,Which chapter is not in the 2020 Further Maths syllabus?,Hyperbolic Functions,Eigenvectors and Eigenvalues,Linear motion under a variable force,Logarithms,Pictures/Supra.jpg,D
+6,Which of the below options is the fastest,Cheetah,Electron,Bugatti Chiron,Light,Pictures/QuestionMark.png,D
+7,Which nation won the 2019 Rugby World Cup?,Japan,New Zealand,South Africa,England,Pictures/rugby.jpg,C
